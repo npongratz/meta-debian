@@ -350,7 +350,7 @@ index 47bb4fe..5e78c48 100644
 -#include <dl-procinfo.h>
 +#include "../sysdeps/generic/dl-procinfo.h"
 +                                                                               
-+#include "../argp.h"                                                              
++                                                              
 +                                                                               
 +                                                                               
 +#define SYSCONFDIR "/etc"                                                      
